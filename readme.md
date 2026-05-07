@@ -27,8 +27,8 @@
 自动收集当前目录、操作系统、已安装常用工具等信息，增强推荐精准度。
 
 **系统架构**
-![pic.png](pic.png)
+![pic.png](pic/pic.png)
 **运行截图**
-![r0.png](r0.png)
-![r1.png](r1.png)
-![r2.png](r2.png)
+![r0.png](pic/r0.png)
+![r1.png](pic/r1.png)
+![r2.png](pic/r2.png)
